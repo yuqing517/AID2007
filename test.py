@@ -1,3 +1,6 @@
+'''
+hash加密
+'''
 import hashlib
 
 # md5 = hashlib.md5()   #创建MD5加密对象  # 应用MD5算法（sha1,sha256,sha384,sha512等）
